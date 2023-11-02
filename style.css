@@ -1,0 +1,26 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.shape {
+    background-color: orange;
+    border: solid;
+    border-radius: 1rem;
+    text-align: center;
+    height: 20rem;
+    width: 100%;
+}
+
+.titre{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    color: white;
+}
+
+.input{
+
+    margin-top: 1rem;
+    width: 50%;
+    height: 10%;
+    text-align: center;
+}
